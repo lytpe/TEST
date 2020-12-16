@@ -1,5 +1,5 @@
 ﻿/****** Script for SelectTopNRows command from SSMS  ******/
-//
+/****** test  ******/
 SELECT 
       [PositionName],
 	  c.DistrictName ,
